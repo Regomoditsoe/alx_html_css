@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<mata charset="UTF8"
+
+
+</head>
+
+<body>
+.flex-container
+{
+	display: flex;
+	flex-direction: column;
+}
+
+
+<header> </header>
+
+<main>
+.flex-container
+{
+	display: flex;
+	flex-direction: row;
+	flex: auto;
+	flex-wrap: wrap;
+}
+
+<article> 
+.flex-container
+{
+	display: flex;
+	flex-wrap: wrap;
+	flex: 2;
+}
+div.ex1
+{
+	overflow-y: auto;
+}
+</article>
+<aside>
+.flex-container
+{
+	display: flex;
+	flex-wrap: wrap;
+	flex: 1;
+}
+div.ex2
+{
+	overflow-y: auto;
+}
+</aside>
+
+
+</main>
+
+<footer> </footer>
+
+
+<p> </p>
+<p> these paragraphs are styled with CSS.</p>
+
+</body>
+
+</html>
