@@ -1,9 +1,9 @@
 Implement a webpage from scratch from a designer file
-![flower](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/6608dba4-5686-4df3-96b5-e0fff1d3c01a)
-![tiger](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/8599be8e-37a8-4742-a18a-b01d20d57fdb)
-![plant](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/78ee39a6-bdb9-4df0-9a20-557dad68cf72)
-![sparklers](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/94f2cb57-11de-4ce6-a424-9b6e71817410)
-![tiger](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/3d906d63-3d3a-463c-9c09-4249bec07fef)
-![bike](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/1a10e8d0-bc37-4bce-8dce-1218aa0b5a1e)
-![boat](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/8816d917-7dc0-42bf-8c0b-de5876266be0)
-![nightsky](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/9395b4d0-dac2-4d5c-a67b-d7da9383ec7a)
+![bike](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/284303a3-7a90-4d55-b4d4-b0592701c76a)
+![flower](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/4e2d7b6c-e4cc-4d4e-902d-7445e9f1ddcf)
+![nightsky](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/44a268a8-5ae7-4b87-b91b-aaaa1175b813)
+![plant](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/a977f704-67e4-4e51-b883-d9fbc01b9eed)
+![sparklers](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/3a844c43-c4eb-45b8-807d-a06f69ae5e8f)
+
+![boat](https://github.com/Regomoditsoe/alx_html_css/asset![tiger](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/a25c7d66-646b-4ba4-a45b-f2639c499abd)
+s/129755524/4b6b40dd-c90e-4d91-a8e6-a1fb262d7c3a)
