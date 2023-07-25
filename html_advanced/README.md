@@ -6,4 +6,4 @@ Implement a webpage from scratch from a designer file
 ![sparklers](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/3a844c43-c4eb-45b8-807d-a06f69ae5e8f)
 
 ![boat](https://github.com/Regomoditsoe/alx_html_css/asset![tiger](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/a25c7d66-646b-4ba4-a45b-f2639c499abd)
-s/129755524/4b6b40dd-c90e-4d91-a8e6-a1fb262d7c3a)
+![tiger](https://github.com/Regomoditsoe/alx_html_css/assets/129755524/810fb718-6014-44b6-ba27-725486c5fb5a)
