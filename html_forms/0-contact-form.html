@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Contact Form</title>
+	</head>
+	<style>
+	body {
+		font-family: Serif, Verdana, Arial;
+	}
+	.container {
+		max-width: 500px;
+		margin: auto;
+		border: 3px solid;
+		color: black;
+	}
+	label, input, textarea {
+		display: block;
+	}
+	</style>
+	<body>
+		<H1>Contact Us</H1>
+		<form action="" method="POST">
+			<div>
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="name" required>
+			</div>
+
+			<div>
+			<label for="email">Email:</label>
+			<input type="email" name="email" required pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$">
+			</div>
+
+			<div>
+			<label for="message">Message:</label>
+			<textarea id="message" name="message"rows="4" required></textarea>
+			</div>
+
+			<div>
+			<button type="submit">Submit</button>
+			</div>
+		</form>
+	</body>
+</html>

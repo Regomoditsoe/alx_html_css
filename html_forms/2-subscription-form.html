@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Subscription-form</title>
+	</head>
+	<style>
+		body {
+			font-family: Serif, Verdana, Arial;
+			color: black;
+		}
+		.container {
+			max-width: 500px;
+			margin: auto;
+			border: 3px solid;
+			color: black;
+		}
+		label, input, textarea {
+			display: block;
+		}
+	</style>
+	<body>
+		<H1>Subscription Form</H1>
+		<form action="" method="">
+			<div>
+				<label for="name">Name:</label>
+				<input type="text" id="name" name="name" required>
+			</div>
+			<div>
+				<label for="email">Email:</label>
+				<input type="email" id="email" name="email" required pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$">
+			</div>
+			<br>
+			<div>
+				<label>Subscription Preference:</label>
+				<div>
+					<label for="monthly">Monthly</label>
+					<input type="radio" id="monthly" name="subscription" value="monthly" required>
+				</div>
+				<div>
+					<label for="yearly">Yearly</label>
+					<input type="radio" id="yearly" name="subscription" value="yearly" required>
+				</div>
+			</div>
+			<div>
+				<button type="submit">Subscribe</button>
+			</div>
+			<br><br>
+		</form>
+	</body>
+</html>
